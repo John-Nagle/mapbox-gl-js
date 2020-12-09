@@ -1,8 +1,8 @@
-# Emergency fork of Mapbox GL JS.
+# Emergency fork of Mapbox GL JS
 Mapbox GL JS was open source under a BSD license until December 6, 2020. On that day the company behind the project
 suddenly imposed a new proprietary license requiring payment. So this is a backup of the version before the license change.
 
-A group has come together to maintain a free version, whichis at https://github.com/MapLibre/maplibre-gl-js.
+A group has come together to maintain a free version, which is at https://github.com/MapLibre/maplibre-gl-js.
 Please use that version. This one will not be maintained.
 
 ---------------------------------------------------------------------------
